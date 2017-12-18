@@ -26,10 +26,16 @@ $ docker-compose up -d
 ## Access
 
 ### Redmine
+
+```
 http://<your machine>/redmine
+```
 
 ### php ldap admin
+
+```
 http://<your machine>:18080/
+```
 
 
 
